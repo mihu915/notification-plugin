@@ -4,3 +4,5 @@ LiteLoader
 lib
 AddonsHelper
 /LLMoney.dll
+.vscode
+notification
